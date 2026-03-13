@@ -30,7 +30,7 @@ Desigualdade Urbana: Enquanto a rede privada mantém médias de 14 alunos por sa
 📊 Dashboard Interativo O projeto conta com um dashboard interativo no Looker Studio, permitindo a filtragem por Região, Localização (Urbana/Rural) e Dependência Administrativa.
 
 Dashboard: https://lookerstudio.google.com/reporting/bc311f3a-1c5c-45a8-983f-babdd0cc82cf
-Visualização do projeto completo: https://drive.google.com/drive/folders/11epzYzdGbhqMyiiJCQHjpDGuRrOOx_sj?usp=drive_link
+Projeto completo: https://drive.google.com/drive/folders/11epzYzdGbhqMyiiJCQHjpDGuRrOOx_sj?usp=drive_link
 
 Como o projeto foi construído 
 
